@@ -1,7 +1,7 @@
 # Jiggler
 A software built to automate human-like mouse movements to prevent being detected by IT Monitoring Software rather than having to buy a physical Jiggler!
 
-* Example of a physical jiggler: shorturl.at/gipM5
+* Example of a physical jiggler: https://shorturl.at/gipM5
 
 
 ## Run the project

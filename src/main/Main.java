@@ -11,11 +11,16 @@ public class Main extends Application {
     private double x, y;
 
     @Override
+    public void stop() {
+        System.exit(0);
+    }
+
+    @Override
     public void start(Stage primaryStage) throws Exception {
         Parent root = FXMLLoader.load(getClass().getResource("home.fxml"));
         primaryStage.setScene(new Scene(root));
         //set stage borderless
-        primaryStage.initStyle(StageStyle.UNDECORATED);
+        primaryStage.initStyle(StageStyle.UTILITY);
         //set always on top
         primaryStage.setAlwaysOnTop(true);
         primaryStage.setResizable(false);

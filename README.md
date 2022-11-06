@@ -1,6 +1,7 @@
 # Jiggler
 A software built to automate human-like mouse movements to prevent being detected by IT Monitoring Software rather than having to buy a physical Jiggler!
 
+* Jiggler application website: https://jiggler.netlify.app/
 * Example of a physical jiggler: https://shorturl.at/gipM5
 
 
